@@ -1,0 +1,7 @@
+Labor Market Analysis: The Intersection of Occupation, Work Class, and Working Hours.
+
+The number of hours worked per week is a fundamental driver of total annual income, but its impact is tightly coupled with a person's occupation and work class. The standard American full-time work week is 40 hours. However, empirical data shows that crossing into the >$50K income bracket often requires either working significantly more than 40 hours (e.g., 50-60 hours) or holding a highly compensated salaried position. 
+
+Work classes also define income ceilings. Individuals in the "Private" sector make up the majority of the workforce and have a massive variance in income, ranging from minimum wage to CEO salaries. "Self-employed" individuals (both incorporated and not incorporated) often report highly variable working hours and incomes, frequently working well over 50 hours a week to sustain their businesses. Government workers (Federal, State, Local) typically show more standardized working hours and robust benefits, often leading to stable, middle-to-high income classifications.
+
+Finally, occupations like "Handlers-cleaners" or "Machine-op-inspct" rarely cross the $50K threshold regardless of the hours worked, due to hourly wage limits. In contrast, "Tech-support" and "Sales" roles offer commissions and bonuses, allowing those individuals to scale their income proportionately to their labor intensity and experience.

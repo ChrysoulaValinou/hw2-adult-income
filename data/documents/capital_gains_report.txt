@@ -1,0 +1,7 @@
+Economic Report: The Impact of Capital Gains and Losses on High-Income Earners.
+
+Capital gains and losses represent the financial outcomes from the sale of assets, such as stocks, bonds, mutual funds, and real estate. Unlike regular salary or hourly wages, which are relatively stable and bounded by time, capital gains are non-linear and heavily concentrated among the upper percentiles of wealth distribution. In demographic datasets analyzing income limits, capital gain is notoriously right-skewed. The vast majority of the population reports exactly zero capital gains, indicating they do not participate heavily in asset trading or investment markets.
+
+When an individual does report substantial capital gains, it acts as a massive statistical indicator of high annual income. This is because significant capital investments typically require a high baseline of disposable income. Therefore, a positive net capital (gains minus losses) is one of the strongest predictive features for determining if someone makes over $50K. 
+
+Conversely, capital losses also provide critical information. While they represent a financial hit, the mere presence of capital losses indicates that the individual holds significant assets to begin with. Thus, even individuals with capital losses often belong to the higher income brackets, as they possess the financial architecture to participate in investment economies.

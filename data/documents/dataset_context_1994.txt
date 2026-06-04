@@ -1,0 +1,7 @@
+Dataset Documentation: The 1994 United States Census Database (Adult Income).
+
+The Adult Income dataset, widely used in machine learning classification tasks, was extracted by Barry Becker from the 1994 United States Census Bureau database. The primary task associated with this dataset is to predict whether an individual's annual income exceeds $50,000. It is crucial to understand that $50,000 in 1994 possessed significantly more purchasing power than it does today, equating roughly to a six-figure salary in modern economic terms. Therefore, earning >$50K classified an individual in the upper-middle to upper economic class of the time.
+
+The dataset contains a rich mix of continuous and categorical features. Continuous features include age, final weight (fnlwgt - an estimate of how many people the row represents), education number, capital gains, capital losses, and hours worked per week. Categorical features cover a broad demographic spectrum: work class, education level, marital status, occupation, relationship within the family, race, sex, and native country.
+
+Missing values in this dataset are typically found in the work class, occupation, and native country columns, usually denoted by a question mark. The target variable is imbalanced, with roughly 76% of the recorded population earning $50K or less, and only 24% earning more. This imbalance is reflective of the actual wealth distribution in the US during that era.
